@@ -1,3 +1,9 @@
 vendor
-wp-content
+assets/node_modules
 composer.lock
+dist
+.vscode
+*.DS_Store
+bower_components
+.htaccess
+node_modules
